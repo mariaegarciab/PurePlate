@@ -14,11 +14,12 @@ Repository Contents
 Installation
 
 	1.	Clone the repository:
- bash
+
  '''
 git clone https://github.com/yourusername/PurePlate.git
 cd PurePlate
 '''
+bash
 
 	2.	Create a virtual environment and install dependencies:
  bash
@@ -27,6 +28,7 @@ python3 -m venv env
 source env/bin/activate
 pip install -r requirements.txt
 '''
+bash 
 
 Usage
 
